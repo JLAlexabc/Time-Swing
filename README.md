@@ -1,5 +1,5 @@
-# Project Starter
-A starter repo for building CUNY Tech Prep projects with React, Express.js, and Sequelize.js
+# About
+CUNY Tech Prep projects with React, Express.js, and Sequelize.js
 
 ## Stack
 
@@ -35,10 +35,6 @@ Create a separate db for this project:
 ```
 createdb -h localhost -U ctp_user app2021_development
 ```
-
-> You will create a DB for each project you start based on this repo. For other projects change `app2021_development` to the new apps database name.
-
-*For more details see the [installing postgres guides](https://github.com/CUNYTechPrep/guides#postgresql)*
 
 ### Running the app
 
@@ -89,10 +85,6 @@ heroku create cool-appname
 heroku addons:create heroku-postgresql:hobby-dev
 ```
 
-> This will deploy your apps to https://cool-appname.herokuapp.com, assuming that it is not taken already.
-
-> You only need to do this once per app
-
 ### Deploying the app
 
 Whenever you want to update the app run this command.
@@ -100,10 +92,6 @@ Whenever you want to update the app run this command.
 ```bash
 git push heroku main
 ```
-
-> This command deploys your main branch. You can change that and deploy a different branch such as: `git push heroku development`
-
-
 
 ## Project Structure
 
