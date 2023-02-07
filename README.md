@@ -1,5 +1,6 @@
 # About
 CUNY Tech Prep projects with React, Express.js, and Sequelize.js
+Project about 
 
 ## Stack
 
