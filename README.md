@@ -1,6 +1,6 @@
 # About
 CUNY Tech Prep projects with React, Express.js, and Sequelize.js
-Project about 
+![](https://github.com/JLAlexabc/Time-Swing/blob/main/TimeSwing.gif)
 
 ## Stack
 
